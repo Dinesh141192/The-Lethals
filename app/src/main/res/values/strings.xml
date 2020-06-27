@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Appointment Tracker</string>
+    <string name="new_name">Add New Customer</string>
+    <string name="new_business">Add Your Business Name Here</string>
+    <string name="business_submit">Submit</string>
+    <string name="cancel">Cancel</string>
+
+
+
+<!--    Add New Patient-->
+    <string name="add_new_customer_title">Add New Customer Here</string>
+    <string name="add_new_customer_name">Enter Name</string>
+    <string name="add_new_customer_phone_num">Enter Phone Num</string>
+    <string name="add_new_customer_age">Enter Age</string>
+    <string name="add_customer_date">Select Appointment Date</string>
+    <string name="add_new_customer_button">Add Customer</string>
+
+    <!--    View Patient-->
+    <string name="view_customer_title">View Customer Details</string>
+    <string name="update_customer_button">Update Customer</string>
+    <string name="attended">Attended</string>
+    <string name="cancel_appointment">Cancel Appointment</string>
+
+</resources>
