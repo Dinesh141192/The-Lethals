@@ -42,7 +42,12 @@ The description of data that has to be entered into the system are: i. Business 
 ### Operational Requirements 
 
 
-➢ System shall allow user to enter the business name for the organization for their business and take necessary details for that ➢ System shall allow user to enter the clients contacts with correct credentials ➢ System shall user to add new appointments for their clients ➢ System shall notify to the user about their appointments via notification pop up when new appointment will be booked by user ➢ System shall allow the user to see the list of appointments they have with the client's name, time, purpose and other details. ➢ System shall allow the user to delete or reschedule the appointment ➢ System shall update the client about changes in their appointments ➢ Work breakdown structure 
+➢ System shall allow user to enter the business name for the organization for their business and take necessary details for that 
+➢ System shall allow user to enter the clients contacts with correct credentials 
+➢ System shall user to add new appointments for their clients 
+➢ System shall notify to the user about their appointments via notification pop up when new appointment will be booked by user 
+➢ System shall allow the user to see the list of appointments they have with the client's name, time, purpose and other details. 
+➢ System shall allow the user to delete or reschedule the appointment ➢ System shall update the client about changes in their appointments ➢ Work breakdown structure 
 
 ### User Requirements
 
