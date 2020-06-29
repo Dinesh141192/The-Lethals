@@ -1,4 +1,3 @@
-# THE LETHALS DOCUMENTATION
 **Documentation &amp; Instructions**
 
 Appointment tracker App helps the organisations or business units to take appointment of the customers who are going to visit them. This app can be very useful during this pandemic situation. This app helps the organisations to ensure that social distancing has been followed among customers. The manager or employee can use this app to take the details of the customers like name, phone number and date of birth. Once the employee feed the details into the app, he or she will be notified within 30 mins before the appointment. Customers can also call the organisation and notify if they want update or cancel the appointment.
@@ -28,12 +27,39 @@ You need Java8 as most of the android features
 
 **Screenshots**
 
-![](https://github.com/Dinesh141192/The-Lethals/raw/master/UI-1.png)
+1. **Add Your Business name**
 
-![](RackMultipart20200629-4-71f2v_html_342e6ff00ba0e9c6.png)
+![]( **https://github.com/Dinesh141192/The-Lethals/raw/master/UI-1.png** )
 
-![](RackMultipart20200629-4-71f2v_html_bee0db43f75a21b4.png)
+![](RackMultipart20200629-4-tgnv4c_html_342e6ff00ba0e9c6.png)
 
-![](RackMultipart20200629-4-71f2v_html_ec28ea8f91c1b6c4.png)
+1. **View Appointments Screen**
 
-![](RackMultipart20200629-4-71f2v_html_ae5d7f5b35eb6ed3.png) ![](RackMultipart20200629-4-71f2v_html_265a85a38ed3f06d.png) ![](RackMultipart20200629-4-71f2v_html_bdde4e2d21e8da4e.png)
+![]([**https://github.com/Dinesh141192/The-Lethals/raw/master/UI-7.png**](https://github.com/Dinesh141192/The-Lethals/raw/master/UI-7.png))
+
+![](RackMultipart20200629-4-tgnv4c_html_bee0db43f75a21b4.png)
+
+1. **Add new Customer here**
+
+![]( **https://github.com/Dinesh141192/The-Lethals/raw/master/UI-3.png** )
+
+![](RackMultipart20200629-4-tgnv4c_html_ec28ea8f91c1b6c4.png)
+
+1. **Add Appointment Date**
+2. ![]( **https://github.com/Dinesh141192/The-Lethals/raw/master/UI-4.png** )
+
+![](RackMultipart20200629-4-tgnv4c_html_ae5d7f5b35eb6ed3.png)
+
+&#39;
+
+1. **Add Appointment Time**
+
+![]( **https://github.com/Dinesh141192/The-Lethals/raw/master/UI-5.png** )
+
+![](RackMultipart20200629-4-tgnv4c_html_265a85a38ed3f06d.png)
+
+1. **Cancel/Update Customer**
+
+![]( **https://github.com/Dinesh141192/The-Lethals/raw/master/UI-6.png** )
+
+![](RackMultipart20200629-4-tgnv4c_html_bdde4e2d21e8da4e.png)
