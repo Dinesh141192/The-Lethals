@@ -29,37 +29,35 @@ You need Java8 as most of the android features
 
 1. **Add Your Business name**
 
-![]( **https://github.com/Dinesh141192/The-Lethals/raw/master/UI-1.png** )
+![](https://github.com/Dinesh141192/The-Lethals/raw/master/UI-1.png)
 
-![](RackMultipart20200629-4-tgnv4c_html_342e6ff00ba0e9c6.png)
 
-1. **View Appointments Screen**
+2. **View Appointments Screen**
 
-![]([**https://github.com/Dinesh141192/The-Lethals/raw/master/UI-7.png**](https://github.com/Dinesh141192/The-Lethals/raw/master/UI-7.png))
+![](https://github.com/Dinesh141192/The-Lethals/raw/master/UI-7.png)
 
-![](RackMultipart20200629-4-tgnv4c_html_bee0db43f75a21b4.png)
 
-1. **Add new Customer here**
 
-![]( **https://github.com/Dinesh141192/The-Lethals/raw/master/UI-3.png** )
+3. **Add new Customer here**
 
-![](RackMultipart20200629-4-tgnv4c_html_ec28ea8f91c1b6c4.png)
+![](https://github.com/Dinesh141192/The-Lethals/raw/master/UI-3.png)
 
-1. **Add Appointment Date**
-2. ![]( **https://github.com/Dinesh141192/The-Lethals/raw/master/UI-4.png** )
+
+4. **Add Appointment Date**
+2. ![](https://github.com/Dinesh141192/The-Lethals/raw/master/UI-4.png)
 
 ![](RackMultipart20200629-4-tgnv4c_html_ae5d7f5b35eb6ed3.png)
 
-&#39;
 
-1. **Add Appointment Time**
 
-![]( **https://github.com/Dinesh141192/The-Lethals/raw/master/UI-5.png** )
+5. **Add Appointment Time**
+
+![](https://github.com/Dinesh141192/The-Lethals/raw/master/UI-5.png)
 
 ![](RackMultipart20200629-4-tgnv4c_html_265a85a38ed3f06d.png)
 
-1. **Cancel/Update Customer**
+6. **Cancel/Update Customer**
 
-![]( **https://github.com/Dinesh141192/The-Lethals/raw/master/UI-6.png** )
+![](https://github.com/Dinesh141192/The-Lethals/raw/master/UI-6.png)
 
 ![](RackMultipart20200629-4-tgnv4c_html_bdde4e2d21e8da4e.png)
